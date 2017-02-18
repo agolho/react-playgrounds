@@ -1,0 +1,11 @@
+body{
+  margin:0 auto;
+  max-width: 50em;
+}
+img {
+  height:1em;
+  border-radius: 20px;
+}
+a{
+  color:#116622;
+}
